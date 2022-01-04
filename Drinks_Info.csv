@@ -1,0 +1,53 @@
+﻿Size,Drink,Price,Calories
+Small,Coca-Cola,1.74,130
+Small,Diet Coke or Coke Zero,1.74,1
+Small,Sprite,1.74,130
+Small,Barq's Root Beer,1.74,150
+Small,NESTEA Iced Tea,1.74,110
+Small,Fruitopia,1.74,120
+Small,Water,2.19,0
+Small,Milkshake,2.94,560
+Small,Smoothie or Frappé,2.74,410
+Small,Iced Coffee,1.79,120
+Small,Hot Coffee,1.49,3
+Small,Tea,1.49,0
+Small,I do not usually get a drink with my meal.,0,0
+Medium,Coca-Cola,2.24,190
+Medium,Diet Coke or Coke Zero,2.24,1
+Medium,Sprite,2.24,190
+Medium,Barq's Root Beer,2.24,210
+Medium,NESTEA Iced Tea,2.24,150
+Medium,Fruitopia,2.24,170
+Medium,Water,2.19,0
+Medium,Milkshake,3.44,750
+Medium,Smoothie or Frappé,3.34,520
+Medium,Iced Coffee,2.39,170
+Medium,Hot Coffee,1.79,4
+Medium,Tea,1.79,0
+Medium,I do not usually get a drink with my meal.,0,0
+Large,Coca-Cola,2.74,280
+Large,Diet Coke or Coke Zero,2.74,2
+Large,Sprite,2.74,280
+Large,Barq's Root Beer,2.74,310
+Large,NESTEA Iced Tea,2.74,220
+Large,Fruitopia,2.74,260
+Large,Water,2.19,0
+Large,Milkshake,4.04,1150
+Large,Smoothie or Frappé,3.74,640
+Large,Iced Coffee,2.79,230
+Large,Hot Coffee,1.99,5
+Large,Tea,1.99,0
+Large,I do not usually get a drink with my meal.,0,0
+I do not usually get a drink with my meal.,Coca-Cola,0,0
+I do not usually get a drink with my meal.,Diet Coke or Coke Zero,0,0
+I do not usually get a drink with my meal.,Sprite,0,0
+I do not usually get a drink with my meal.,Barq's Root Beer,0,0
+I do not usually get a drink with my meal.,NESTEA Iced Tea,0,0
+I do not usually get a drink with my meal.,Fruitopia,0,0
+I do not usually get a drink with my meal.,Water,0,0
+I do not usually get a drink with my meal.,Milkshake,0,0
+I do not usually get a drink with my meal.,Smoothie or Frappé,0,0
+I do not usually get a drink with my meal.,Iced Coffee,0,0
+I do not usually get a drink with my meal.,Hot Coffee,0,0
+I do not usually get a drink with my meal.,Tea,0,0
+I do not usually get a drink with my meal.,I do not usually get a drink with my meal.,0,0
